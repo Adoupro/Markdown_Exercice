@@ -1,4 +1,3 @@
-# Rmd
 Introduction
 =====================
 
@@ -10,6 +9,6 @@ The data was collected from October to November 2012, with 5 minutes interval ea
 
 <br />
 
-See more about this project by openning **[./𝙿𝙰𝟷_𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎.md][1]***
+See more about this project by openning [**𝙿𝙰𝟷_𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎.md**][1]
 
 [1]:𝙿𝙰𝟷_𝚝𝚎𝚖𝚙𝚕𝚊𝚝𝚎.md
